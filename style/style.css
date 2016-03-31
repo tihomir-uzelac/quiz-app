@@ -1,0 +1,52 @@
+body {
+    background-image: url("http://www.intrawallpaper.com/static/images/cool-background.jpg");
+    background-color: #5DADE2;
+}
+
+header {
+	text-align: center;
+	color: #FFFAFA;
+	font-family: 'Goudy Bookletter 1911',Georgia,serif;
+}
+
+.main {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.choises {
+	color: #FFFAFA; 
+	width: 400px;
+	float: left;
+	border-radius: 8px;
+	font-size: 25px;
+	margin: 70px 0 0 40px;
+}
+
+input {
+	margin-bottom: 50px;
+}
+
+img {
+	width: 600px;
+	height: 400px;
+	margin: 40px 0 20px 70px;
+	float: left;
+	border: 6px solid #000080;
+	border-radius: 5px;
+}
+
+footer {
+	clear: both;
+	width: 600px;
+	color: #FFFAFA;
+	font-size: 35px;
+	padding: 70px 0 0 160px;
+	margin: 0 auto;
+}
+
+#reload {
+	display: none;
+	float: right;
+}
+
